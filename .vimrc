@@ -73,6 +73,7 @@ set mouse=a
 
 " PLUGINS ---------------------------------------------------------------- {{{
 " Call :PlugInstall to update the plugins
+" curl -fLo ~/.vim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
 call plug#begin('~/.vim/plugged')
 
     Plug 'preservim/nerdtree'
